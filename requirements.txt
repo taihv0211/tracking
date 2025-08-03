@@ -1,0 +1,4 @@
+deep-sort-realtime
+opencv-python
+pandas
+numpy
